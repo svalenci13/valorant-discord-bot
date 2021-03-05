@@ -1,3 +1,3 @@
 # Valorant Discord Bot
 
-Basic Valorant discord bot made by Sebo :)
+Basic Valorant discord bot made by Sebo :).
